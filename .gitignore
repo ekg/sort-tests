@@ -1,0 +1,12 @@
+\#*
+.#*
+*~
+build/
+bin/
+test/
+.gdb_history
+stxxl.errlog
+stxxl.log
+bsort
+mmmultimap
+stxxl

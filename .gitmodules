@@ -1,0 +1,11 @@
+[submodule "mmmultimap"]
+	path = mmmultimap
+	url = https://github.com/ekg/mmmultimap.git
+	branch = ips4o-test
+[submodule "bsort"]
+	path = bsort
+	url = https://github.com/ekg/bsort.git
+[submodule "stxxl"]
+	path = stxxl
+	url = https://github.com/ekg/stxxl.git
+	branch = sort-file-test
